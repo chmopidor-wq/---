@@ -70,5 +70,5 @@
     { "id": 35, "name": "Костюм тройка Сант-Альбино", "price": 54900, "image": "https://provokatorspb.ru/imgs/products_web/big/1766151847_4Fa.webp"
     },
     { "id": 36, "name": "Костюм тройка Франк Костелло", "price": 55900, "image": "https://provokatorspb.ru/imgs/products_web/big/1766149033_xOJ.webp"
-    },
+    }
 ]
